@@ -1,23 +1,23 @@
 [{
   "speaker": "Hassan Arteaga Rodriguez",
   "id": "6e3bed84-bd7e-4c6b-a168-c43b65df59b6",
-  "event_name": "COSMOSDB Conf",
+  "event_name": "CosmosDB Conf",
   "event_country":"MEXICO",
   "init_date": 20180613,
   "end_date": 20180615,
   "conferences": [
     {
-      "title": "Using COSMOSDB",
+      "title": "Using CosmosDB",
       "duration": 30,
       "type": "conference"
     },
     {
-      "title": "Querying COSMOS DB",
+      "title": "Querying CosmosDB",
       "duration": 60,
       "type": "lab"
     },
     {
-      "title": "COSMOS DB + Azure Functions",
+      "title": "CosmosDB + Azure Functions",
       "duration": 45,
       "type": "lab"
     }
@@ -52,14 +52,34 @@
     "end_date": 20180625,
     "conferences": [
       {
-        "title": "COSMOS DB in IoT Architectures",
+        "title": "CosmosDB in IoT Architectures",
         "duration": 30,
         "type": "conference"
       },
       {
-        "title": "Inserting IoT Metrics in COSMOS DB",
+        "title": "Inserting IoT Metrics in CosmosDB",
         "duration": 60,
         "type": "lab"
+      }
+    ]
+  },
+  {
+    "speaker": "Zamir Alejandro Arteaga",
+    "id": "f3c965b4-39e8-4e58-af5a-b5c88019246c",
+    "event_name": "Cloud Conference 2018",
+    "event_country":"MEXICO",
+    "init_date": 20180411,
+    "end_date": 20180412,
+    "conferences": [
+      {
+        "title": "CosmosDB a New Era Database",
+        "duration": 30,
+        "type": "conference"
+      },
+      {
+        "title": "Developing App with CosmosDB",
+        "duration": 30,
+        "type": "conference"
       }
     ]
   }
