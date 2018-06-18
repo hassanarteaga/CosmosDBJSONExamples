@@ -64,6 +64,26 @@
     ]
   },
   {
+    "speaker": "Lourdes M. Guada del Castillo",
+    "id": "70fc0d83-768e-42b6-b8a6-a2ac21eeaa40",
+    "event_name": "CosmosDB Conf",
+    "event_country":"MEXICO",
+  "init_date": 20180613,
+  "end_date": 20180615,
+    "conferences": [
+      {
+        "title": "CosmosDB PaaS",
+        "duration": 30,
+        "type": "conference"
+      },
+      {
+        "title": "Planning RU for CosmosDB collection",
+        "duration": 60,
+        "type": "lab"
+      }
+    ]
+  },
+  {
     "speaker": "Zamir Alejandro Arteaga",
     "id": "f3c965b4-39e8-4e58-af5a-b5c88019246c",
     "event_name": "Cloud Conference 2018",
