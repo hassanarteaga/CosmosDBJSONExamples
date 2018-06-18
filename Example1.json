@@ -5,7 +5,7 @@
   "event_country":"MEXICO",
   "init_date": 20180613,
   "end_date": 20180615,
-  "conferences": [
+  "activities": [
     {
       "title": "Using CosmosDB",
       "duration": 30,
@@ -30,7 +30,7 @@
     "event_country":"USA",
     "init_date": 20180501,
     "end_date": 20180503,
-    "conferences": [
+    "activities": [
       {
         "title": "In Vue we trust",
         "duration": 30,
@@ -50,7 +50,7 @@
     "event_country":"GERMANY",
     "init_date": 20180621,
     "end_date": 20180625,
-    "conferences": [
+    "activities": [
       {
         "title": "CosmosDB in IoT Architectures",
         "duration": 30,
@@ -70,7 +70,7 @@
     "event_country":"MEXICO",
   "init_date": 20180613,
   "end_date": 20180615,
-    "conferences": [
+    "activities": [
       {
         "title": "CosmosDB PaaS",
         "duration": 30,
@@ -90,7 +90,7 @@
     "event_country":"MEXICO",
     "init_date": 20180411,
     "end_date": 20180412,
-    "conferences": [
+    "activities": [
       {
         "title": "CosmosDB a New Global Database",
         "duration": 30,
