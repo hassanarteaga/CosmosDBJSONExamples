@@ -41,7 +41,8 @@
           "duration": 30,
           "type": "conference"
         }
-      ]
+      ],
+      "event_notes":["wear t-shirts with logo","alcohol tolerance","use hat"]
     },
     {
       "speaker": "Lourdes M. Guada del Castillo",
